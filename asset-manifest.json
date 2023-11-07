@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-frontend/static/css/main.f37b5ec5.css",
+    "main.js": "/mern-frontend/static/js/main.ebed3810.js",
+    "index.html": "/mern-frontend/index.html",
+    "main.f37b5ec5.css.map": "/mern-frontend/static/css/main.f37b5ec5.css.map",
+    "main.ebed3810.js.map": "/mern-frontend/static/js/main.ebed3810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37b5ec5.css",
+    "static/js/main.ebed3810.js"
+  ]
+}
