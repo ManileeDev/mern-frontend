@@ -16,7 +16,7 @@ const Login = () => {
     e.preventDefault()
 
     try{
-      const response = await fetch("/api/users/login",{
+      const response = await fetch("https://workoutsserver.onrender.com/api/users/login",{
         method : "POST",
         headers : {
           "Content-type" : "application/json"
